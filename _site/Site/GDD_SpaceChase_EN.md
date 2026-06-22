@@ -1,16 +1,9 @@
----
-layout: default
----
-
-# __Línguas:__
-<a href="index"><img src="Images/PT_BR_Flag.png" width="40" alt="Bandeira PT BR"></a> <a href="indexEN"><img src="Images/EN_Flag.png" width="40" alt="Bandeira EN"></a>
-
-# **SPACE CHASE**
+﻿# **SPACE CHASE**
 _data: 16/06/2026
 autor: Thadeu Moscatelli
 cidade: Votorantim  - SP_
 
-<!-- *based on:* [GDD_Template](Temp/GDD_Template) -->
+*based on:* [GDD_Template](Temp/GDD_Template)
 
 1. ##  **Introdução**
  -  ### **Toró de Ideias**
@@ -25,7 +18,7 @@ cidade: Votorantim  - SP_
  - ### **Demografia**
 	 - __Audiência__: 25-30 anos.
 	 - __Estilo de Jogo__: Naves
-	 - __Plataforma__: Mobile / PC
+	 - __Plataforma__: Mobile | PC
 
 2. ## **Jogabilidade**
 
@@ -69,17 +62,17 @@ Um sistema básico de sociedade também será visto aqui, onde melhorar a nave e
 
 5. ## **Programação**
  - ### **Sistemas**
-	 - #### **Movimentação**
+	 - #### Movimentação
 		 dois tipos de movimentação serão necessários, um para as naves nos modos normais, e outro para as naves em modo planetário.
-	- #### **Dialogo (UI Toolkit)**
+	- #### Dialogo (UI Toolkit)
 		Sistema que guarda todos os diálogos em scriptable Objects, e permite uma edição mais simples e direta com possibilidade de criação e importação em vários formatos diferentes.
-	- #### **Input**
-	- #### **Save/Load**
-	- #### **Missões**
-	- #### **Nave / Progressão**
-	- #### **Procedural World**
-	- #### **Boss Battle**
-	- #### **Defend Fase**
+	- #### Input
+	- #### Save/Load
+	- #### Missões
+	- #### Nave / Progressão
+	- #### Procedural World
+	- #### Boss Battle
+	- #### Defend Fase
 
 
 
